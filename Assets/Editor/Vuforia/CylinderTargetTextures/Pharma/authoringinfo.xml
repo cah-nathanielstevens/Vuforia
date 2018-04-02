@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.7.4">
+        <CylinderTarget name="Medicine" version="3.0" targetId="3138b536a1024c0c8a6c83a9380f131c" sideLength="2.000000" topDiameter="1.000000" bottomDiameter="1.000000" sideImage="Medicine.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
